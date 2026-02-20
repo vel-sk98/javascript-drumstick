@@ -4,6 +4,9 @@ A simple interactive drum kit that plays sounds when you press keys on your keyb
 
 ---
 
+<img width="1837" height="820" alt="Drumstick" src="https://github.com/user-attachments/assets/04352087-07f4-4d22-8db4-83f8c655c9c0" />
+
+
 ## 🧠 About the Project
 
 This project was built purely as a learning exercise to get comfortable working with the DOM. The goal wasn't to build something complex - it was to understand how JavaScript can listen to user interactions and dynamically update what's on screen in response.
